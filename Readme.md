@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [FilterPopupConverter.cs](./CS/Default MVVM/FilterPopupConverter.cs) (VB: [FilterPopupConverter.vb](./VB/Default MVVM/FilterPopupConverter.vb))
+* [MainWindow.xaml](./CS/Default MVVM/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/Default MVVM/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/Default MVVM/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/Default MVVM/MainWindow.xaml))
+* [ViewModel.cs](./CS/Default MVVM/ViewModel.cs) (VB: [ViewModel.vb](./VB/Default MVVM/ViewModel.vb))
+<!-- default file list end -->
 # How to show images in a column filter drop-down window
 
 
