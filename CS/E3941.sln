@@ -1,5 +1,5 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Default MVVM", "Default MVVM\Default MVVM.csproj", "{451150F6-DA76-44D5-9F49-E96659860B4D}"
 EndProject
 Global
